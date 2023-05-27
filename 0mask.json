@@ -1,0 +1,19 @@
+{
+    "title": "Frame: 0000/6572",
+    "rows": 0.95,
+    "columns": 1.038,
+    "panels": [[[1.039, 0.9473]]],
+    "sprites": [],
+    "backgrounds": [{
+            "img": "data:image/bmp;base64,",
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 360,
+            "originalWidth": 480,
+            "originalHeight": 360,
+            "resized": 0,
+            "panel": [0, 0]
+        }
+    ]
+}
